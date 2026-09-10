@@ -1,4 +1,5 @@
 # Emotion Detection
+<img width="960" height="431" alt="6b_deployment_test" src="https://github.com/user-attachments/assets/5d829a84-0dc0-4e25-a37d-f4c8b32d4195" />
 
 ## Project Description
 
